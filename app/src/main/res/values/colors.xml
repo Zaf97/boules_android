@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="colorAccent">#b9d3c2</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="material_green_50">#b9d3c2</color>
+    <color name="material_green_500">#009688</color>
+    <color name="material_green_700">#00796B</color>
+    <color name="material_green_a200">#69F0AE</color>
+    <color name="material_lime_a700">#a9013f</color>
+    <color name="material_purple_a700">#a9013f</color>
+</resources>

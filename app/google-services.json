@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974979504145",
+    "firebase_url": "https://boules-bea9c.firebaseio.com",
+    "project_id": "boules-bea9c",
+    "storage_bucket": "boules-bea9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974979504145:android:16daef47d1112456",
+        "android_client_info": {
+          "package_name": "com.example.zaf.boulesv003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974979504145-lvqlhpa5ep8b9pkn4gqgilnlipt939ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zaf.boulesv003",
+            "certificate_hash": "12f9e0d6a4f025ee741a7d470d6e65ed4332c9ef"
+          }
+        },
+        {
+          "client_id": "974979504145-jnaerh6u8vblis0fulog909hpe6opsq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzfk29KOlY4mM-PBhEgc-5peOXAZUWEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974979504145-jnaerh6u8vblis0fulog909hpe6opsq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
